@@ -1,6 +1,12 @@
-longitude,latitude,goal,num_housed
--87.623177,41.881832,225,152,
--90.071533,29.951065,100,141,
--121.955238,37.354107,100,134,
--79.930923,	32.776566,50,46,
+longitude,latitude,goal,num_housed,highlights,city_name,
+-87.623177,41.881832,225,152,,Chicago
+-90.071533,29.951065,100,141,101 youth/young adults were previously literally homeless,New Orleans
+-121.955238,37.354107,100,134,90% of YYA housed were people of color,Santa Clara County
+-79.930923,	32.776566,50,46,61 percent of all housed were pregnant or parenting,Charleston
+-81.655647,	30.332184,100,108,35 percent of youth housed were LGBTQIA+ and/or survivors of human trafficking,Jacksonville
+-72.764124,41.693181,40,,,Central Connecticut
+-87.0091742,34.2248222,30,35,30% had exposure to justice or welfare systems,Central Alabama
+-81.15,25.12,7,8,62% were people of color LGBTQ+ and/or had a disabling condition,Monroe County FL
+-80.223499106,39.291332168,35,17,47% were involved with Child Welfare and/or Juvenile Justice and/or were affected by substance abuse,North-Central West Virginia
+
 
