@@ -2,8 +2,8 @@ longitude,latitude,goal,num_housed,highlights,city_name,
 -87.623177,41.881832,225,152,,Chicago
 -90.071533,29.951065,100,141,101 youth/young adults were previously literally homeless,New Orleans
 -121.955238,37.354107,100,134,90% of YYA housed were people of color,Santa Clara County
--79.930923,	32.776566,50,46,61 percent of all housed were pregnant or parenting,Charleston
--81.655647,	30.332184,100,108,35 percent of youth housed were LGBTQIA+ and/or survivors of human trafficking,Jacksonville
+-79.930923,32.776566,50,46,61 percent of all housed were pregnant or parenting,Charleston
+-81.655647,30.332184,100,108,35 percent of youth housed were LGBTQIA+ and/or survivors of human trafficking,Jacksonville
 -72.764124,41.693181,40,,,Central Connecticut
 -87.0091742,34.2248222,30,35,30% had exposure to justice or welfare systems,Central Alabama
 -81.15,25.12,7,8,62% were people of color LGBTQ+ and/or had a disabling condition,Monroe County FL
@@ -16,12 +16,20 @@ longitude,latitude,goal,num_housed,highlights,city_name,
 -76.85,38.83,50,56,100% of students at 2 and 4 year institutions who identify as homeless have been housed 80% of young adults who were housed were also employed and/or in educational or training programs, Prince George's County
 -121.478851,38.575764,200,313,90% of YYA who were housed have been connected to support 35% of YYA who were housed are pregnant or parenting 53% of YYA who were housed are experiencing stress and/or mental health symptoms as a barrier,Sacramento
 -115.159833361,36.1559815427,100,91,46 system-involved have been prevented from entering homelessness 10% of youth have been housed with new and/or innovative housing solutions, Southern Nevada
--87.7166638,41.7999968,75,79,,Suburban Cook County
+-87.7166638,41.7999968,75,79,95% of Transition Aged Youth were assessed and 22 were added to the Active List,Suburban Cook County
 -89.14204,30.78137,50,51,Created 78 transition plans for YYA in the juvenile justice or protective services systems,Gulf Coast MS
--122.58,44.91,150,93,,Marion County Or
+-122.58,44.91,150,93,72 of those housed were placed with a creative alternative solution,Marion County Or
 -123.20778,39.15017,70,39,8% identified as LGBTQ+ 28% identified as people of color, Ukiah Valley
--76.609383, 39.299236,100,132,Process for collaboration between homeless providers and the Department of Juvenile Services was begun at both the system leader and front-line staff levels, Baltimore
--82.983330,39.983334,,83,,Columbus OH
+-76.609383,39.299236,100,132,Process for collaboration between homeless providers and the Department of Juvenile Services was begun at both the system leader and front-line staff levels, Baltimore
+-82.983330,39.983334,,83,Improved Transition Aged Youth-serving systems by increasing rates of successful youth exits from adult shelters,Columbus OH
 -93.47,45.0,150,236,57.2% of housed youth are employed, Hennepin County MN 
 -85.764771,38.328732,100,115,23 of those housed were under the age of 18 and 7 new forms of housing opportunities were tested, Louisville KY
 -80.05,26.71,142,121,100% of YYA's housed were high acuity 81% of the youth and young adults who were housed identified as people of color and or LGBTQ+,Palm Beach County
+-121.84,47.47,450,330,76% of those housed were youth of color and/or identified as LGBTQ+,King County WA
+-122.11,47.05,168,176,17% identified as LGBTQ+ 63% were youth and young adults of color and 27% were minors. 175 new housing options were developed, Pierce County WA
+-117.426048,47.658779,100,109,52% were system-involved 43 of those housed were minors,Spokane County WA
+-81.681290,41.505493,100,110,solid housing plans were developed for youth set to age out of foster care during this period to prevent homelessness, Cleveland OH
+-97.733330,30.266666,50,62,40% have been involved in foster care,Austin TX
+-118.243683,34.052235,237,256,66 of those housed were high acuity,Los Angeles
+
+
